@@ -1,0 +1,62 @@
+﻿@model List<(int X, int Y, DateTime Time)>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mouse Movement Tracker</title>
+    <script>
+        /*let coordinates = [];
+
+        document.addEventListener('mousemove', (event) => {
+            coordinates.push([event.clientX, event.clientY, new Date()]);
+        });
+
+        document.getElementById('submit-button').addEventListener('click', () => {
+            fetch('/submit', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(coordinates)
+            })
+            .then(response => response.json())
+            .then(data => console.log(data))
+            .catch(error => console.error('Error:', error));
+
+            coordinates = [];
+        });*/
+        async function submitMouseMovement(coordinates) {
+            try {
+                const response = await fetch('/api/mousemovement/submit', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(coordinates)
+                });
+
+                if (response.ok) {
+                    console.log('Coordinates saved successfully.');
+                } else {
+                    console.error('Failed to save coordinates.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+        document.addEventListener('DOMContentLoaded', function () {
+            const submitButton = document.getElementById('submit-button');
+            if (submitButton) {
+                submitButton.addEventListener('click', async function () {
+                    const coordinates = getMouseCoordinates(); // Функция для получения координат мыши
+                    await submitMouseMovement(coordinates);
+                });
+            }
+    </script>
+</head>
+<body>
+    <h1>Mouse Movement Tracker</h1>
+    <button id="submit-button">Отправить данные</button>
+</body>
+</html>

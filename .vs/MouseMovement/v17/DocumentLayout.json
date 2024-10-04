@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\controllers\\mousemovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:controllers\\mousemovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\data\\models\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:data\\models\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\data\\mousemovementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:data\\mousemovementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|c:\\users\\ivanl\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u043D\u0438\u043A\\test_task\\mousemovement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{250FC4B2-EEF9-4FCC-B7D5-BBF84413AAA0}|MouseMovement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T14:00:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T13:24:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouseMovementController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Controllers\\MouseMovementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MouseMovementController.cs",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Controllers\\MouseMovementController.cs",
+              "RelativeToolTip": "Controllers\\MouseMovementController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwC8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:23:19.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:19:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseMovementContext.cs",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Data\\MouseMovementContext.cs",
+              "RelativeDocumentMoniker": "Data\\MouseMovementContext.cs",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Data\\MouseMovementContext.cs",
+              "RelativeToolTip": "Data\\MouseMovementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:17:42.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Data\\Models\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\ivanl\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u043D\u0438\u043A\\Test_task\\MouseMovement\\Data\\Models\\MouseMovement.cs",
+              "RelativeToolTip": "Data\\Models\\MouseMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:13:58.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
